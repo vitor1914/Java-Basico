@@ -16,7 +16,7 @@ java -version
 1. Clone este repositório para a sua máquina:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-java-basico.git
+https://github.com/vitor1914/Java-Basico.git
 ```
 
 2. Navegue até o diretório do projeto:
